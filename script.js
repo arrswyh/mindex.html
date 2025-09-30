@@ -13,11 +13,11 @@ const messages = [
     },
     {
         text: "pls klik yang kiri",
-        image: "https://ibb.co.com/2Jj4pRP"
+        image: "https://ibb.co.com/2Jj4pRP.jpg"
     },
     {
         text: "terakhir, kalo \"GX\" yauda deh",
-        image: "https://ibb.co.com/0ytRxPJY"
+        image: "https://ibb.co.com/0ytRxPJY'jpg"
     }
 ];
 
